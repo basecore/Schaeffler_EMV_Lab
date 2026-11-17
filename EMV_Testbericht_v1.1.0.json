@@ -1,0 +1,159 @@
+{
+  "version": "1.1.0",
+  "engine": "Duktape mit DOM/Canvas/WebAudio/Pointer-Testadaptern",
+  "real_browser_visual_test": false,
+  "real_speaker_listening_test": false,
+  "passed": 37,
+  "total": 37,
+  "tests": [
+    {
+      "name": "Startmenü und Version 1.1.0",
+      "pass": true
+    },
+    {
+      "name": "Neue Spielstände aller Schwierigkeiten sind gültig",
+      "pass": true
+    },
+    {
+      "name": "Alle Stationen inkl. LISN und Pflege erreichbar",
+      "pass": true
+    },
+    {
+      "name": "CE benötigt LISN und simulierte Verbindung",
+      "pass": true
+    },
+    {
+      "name": "CE-Auftragsbereich und Peak-Demodetektor werden geprüft",
+      "pass": true
+    },
+    {
+      "name": "RE benötigt Monopol, nicht nur LISN",
+      "pass": true
+    },
+    {
+      "name": "Interlocks: innen, offene Tür, Energie und DUT",
+      "pass": true
+    },
+    {
+      "name": "Tür-Kollision bei RE und CE",
+      "pass": true
+    },
+    {
+      "name": "Alle DUT-Profile: Roh-FAIL, Filter-PASS ab Qualität 65",
+      "pass": true
+    },
+    {
+      "name": "Manuelles Filterlöten: drei Treffer",
+      "pass": true
+    },
+    {
+      "name": "Automatische Filtermontage auf Schwer",
+      "pass": true
+    },
+    {
+      "name": "Kaffee blockiert bei Wasser / Bohnen / Schale / Schmutz",
+      "pass": true
+    },
+    {
+      "name": "Alle vier Einzel-Wartungsaktionen",
+      "pass": true
+    },
+    {
+      "name": "Wartung und Kaffee bei null Energie ohne Softlock",
+      "pass": true
+    },
+    {
+      "name": "Kaffee verbraucht Ressourcen und füllt die Kaffeeschale",
+      "pass": true
+    },
+    {
+      "name": "Kollegen verbrauchen regelmäßig Kaffee",
+      "pass": true
+    },
+    {
+      "name": "Blumen gießen lädt Wasser und erledigt Pflegeaufgabe",
+      "pass": true
+    },
+    {
+      "name": "Blumen trocknen wieder und Pflege ist wiederkehrend",
+      "pass": true
+    },
+    {
+      "name": "Genau 2 Sims, 3 Handy-Schreibtischkollegen, 4 Küchenkollegen, 1 Doktor",
+      "pass": true
+    },
+    {
+      "name": "Chef-Reaktion: Meeting-Flucht und Arbeitsgespräche",
+      "pass": true
+    },
+    {
+      "name": "Chef erwischt: zusätzliche Wiederholungsmessung",
+      "pass": true
+    },
+    {
+      "name": "Handy-Arbeitsschalter schützt vor dem Chef",
+      "pass": true
+    },
+    {
+      "name": "Chef-Auflage ist zusätzlich zur regulären Nachmessung",
+      "pass": true
+    },
+    {
+      "name": "Doktor kommt regelmäßig und kann vermieden werden",
+      "pass": true
+    },
+    {
+      "name": "Doktor-Monolog und fachliches Kontern",
+      "pass": true
+    },
+    {
+      "name": "Protokoll verlangt passende Pflege- und Wartungsaufgaben",
+      "pass": true
+    },
+    {
+      "name": "Fachantwort zählt, ironische Antwort nicht",
+      "pass": true
+    },
+    {
+      "name": "Audio initialisiert, spielt Melodie und Effekttöne",
+      "pass": true
+    },
+    {
+      "name": "Audio Resume nach suspended und iOS interrupted",
+      "pass": true
+    },
+    {
+      "name": "Touch-Joystick, Pause und Arbeitsschalter",
+      "pass": true
+    },
+    {
+      "name": "Pinch-Zoom verhindert versehentliche Bodennavigation",
+      "pass": true
+    },
+    {
+      "name": "CSV: UTF-8-BOM, 84 Datenzeilen und CE-Profil",
+      "pass": true
+    },
+    {
+      "name": "Spielstände speichern Pflege, Maschinen und Zusatzmessungen",
+      "pass": true
+    },
+    {
+      "name": "Menüs, Karten, CE-Chart und neue Sprite-Renderpfade",
+      "pass": true
+    },
+    {
+      "name": "Vollständiger RE-Auftrag mit Wegsuche und UI",
+      "pass": true
+    },
+    {
+      "name": "Vollständiger CE-Auftrag mit LISN, Verbindung und Wartung",
+      "pass": true
+    },
+    {
+      "name": "Alle Kampagnen auf Leicht, Mittel und Schwer vollständig",
+      "pass": true
+    }
+  ],
+  "standalone_html_sha256": "d76e04702ba961f9898cef378d7bfefb0fc0fce1f55a3582f31e6d758825328b"
+}

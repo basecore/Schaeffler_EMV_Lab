@@ -1,0 +1,27 @@
+{
+  "name": "Schaeffler EMV: Messen. Löten. Kaffee.",
+  "short_name": "EMV Lab",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#edf3e8",
+  "theme_color": "#008947",
+  "lang": "de",
+  "description": "Inoffizielles Retro-Lernspiel mit RE/CE-Messungen, LISN, Kaffee und Labor-Satire.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
